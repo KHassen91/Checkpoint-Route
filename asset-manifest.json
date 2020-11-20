@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Checkpoint-Route/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Checkpoint-Route/static/js/main.d1ddc2dd.chunk.js",
+    "main.js.map": "/Checkpoint-Route/static/js/main.d1ddc2dd.chunk.js.map",
+    "runtime-main.js": "/Checkpoint-Route/static/js/runtime-main.44ca73d7.js",
+    "runtime-main.js.map": "/Checkpoint-Route/static/js/runtime-main.44ca73d7.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Checkpoint-Route/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.fe760074.chunk.js": "/Checkpoint-Route/static/js/2.fe760074.chunk.js",
+    "static/js/2.fe760074.chunk.js.map": "/Checkpoint-Route/static/js/2.fe760074.chunk.js.map",
+    "static/js/3.036d23ef.chunk.js": "/Checkpoint-Route/static/js/3.036d23ef.chunk.js",
+    "static/js/3.036d23ef.chunk.js.map": "/Checkpoint-Route/static/js/3.036d23ef.chunk.js.map",
+    "index.html": "/Checkpoint-Route/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Checkpoint-Route/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/Checkpoint-Route/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.fe760074.chunk.js.LICENSE.txt": "/Checkpoint-Route/static/js/2.fe760074.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44ca73d7.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.fe760074.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.d1ddc2dd.chunk.js"
+  ]
+}
