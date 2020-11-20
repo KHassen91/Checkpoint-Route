@@ -45,7 +45,7 @@ function App() {
       <div className="App">
         <Header add={addMovie} searchTitle={chooseByTitle} searchRate={chooseByRate} />
         <Switch>
-          <Route exact path='/' render={() => <Main add={addMovie} Movies={Movielist} Title={Title} Rate={Rate} />} />
+          <Route exact path='/Checkpoint-Route' render={() => <Main add={addMovie} Movies={Movielist} Title={Title} Rate={Rate} />} />
           <Route path='/trailer/:Ntitle' component={Trailer} />
         </Switch>
       </div>
